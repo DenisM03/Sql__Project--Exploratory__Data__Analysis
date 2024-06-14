@@ -1,1 +1,2 @@
-# Sql__Project--Exploratory__Data__Analysis
+# Sql Project       
+# Project Title : Exploratory Data Analysis
