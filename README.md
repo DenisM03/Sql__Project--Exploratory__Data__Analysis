@@ -1,2 +1,2 @@
 # Sql Project       
-# Project Title : Exploratory Data Analysis
+# Project Title : Covid Deaths Analysis
