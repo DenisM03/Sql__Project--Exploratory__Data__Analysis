@@ -1,2 +1,2 @@
 # Sql Project       
-# Project Title : Covid Deaths Analysis
+# Project Title : World Layoff's Analysis
